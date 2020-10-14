@@ -1,0 +1,4 @@
+﻿F:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+F:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+  hw9.vcxproj -> C:\Users\0610w\OneDrive\桌面\C_code\hw9\hw9\hw9\..\..\temp\debug\hw9.exe
